@@ -1,0 +1,11 @@
+# PnL Attribution & Alpha Decay Framework
+# All packages already present in ../sentiment_signals/venv
+# Run: /Users/maanitmehta/sentiment_signals/venv/bin/pip install -r requirements.txt
+
+dash>=4.0.0
+dash-bootstrap-components>=2.0.0
+plotly>=6.0.0
+pandas>=2.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+yfinance>=1.0.0
