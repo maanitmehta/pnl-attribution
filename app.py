@@ -2,8 +2,8 @@
 PnL Attribution & Alpha Decay Framework — Dash App
 
 Run with:
-    /Users/maanitmehta/sentiment_signals/venv/bin/python app.py
-    (or: python app.py if your venv is activated)
+    python app.py
+    (after activating your venv)
 
 Serves on http://localhost:8050
 
