@@ -6,12 +6,11 @@
 ## Quick start
 
 ```bash
-# Using the sentiment_signals venv (all dependencies already installed)
-cd /Users/maanitmehta/pnl_attribution
-/Users/maanitmehta/sentiment_signals/venv/bin/python app.py
-
-# Or activate the venv first
-source /Users/maanitmehta/sentiment_signals/venv/bin/activate
+git clone https://github.com/maanitmehta/pnl-attribution.git
+cd pnl-attribution
+python3 -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+pip install -r requirements.txt
 python app.py
 ```
 
